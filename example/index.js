@@ -1,0 +1,5 @@
+require('../ispinner.css')
+var ispinner = require('..')
+var parent = document.querySelector('#gray .spinner', {white: true})
+ispinner(parent)
+ispinner(document.querySelector('#white .spinner'))
