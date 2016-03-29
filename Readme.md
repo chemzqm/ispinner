@@ -23,3 +23,4 @@ ispinner(el, {white: true})
 * `option` is optional, it contains `white` and `width`
     * when `white` is true, spinner would be white color
     * when `width` is set, it would be applied to el.style.width and el.style.height.
+* spinner element is returned
