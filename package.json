@@ -1,13 +1,9 @@
 {
   "name": "ispinner",
-  "version": "0.0.2",
-  "description": "",
+  "version": "0.0.1",
+  "description": "simple ios spinner with css3 animation",
   "main": "lib/index.js",
-  "directories": {
-    "test": "test"
-  },
   "scripts": {
-    "test": "make test-coveralls"
   },
   "repository": {
     "type": "git",
